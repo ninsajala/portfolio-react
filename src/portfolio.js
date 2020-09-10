@@ -3,7 +3,7 @@ import React from "react"
 export default function Portfolio(){
     return (
         <div>
-            Hallo
+            <header>Nina van den Braak</header>            
         </div>
     )
 }
